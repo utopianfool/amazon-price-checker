@@ -56,6 +56,12 @@ Run in terminal from root of project
 node parser.js
 ```
 
+Add url and min price
+
+```
+node parser.js https://amazon.co.uk/product 500
+```
+
 ### Set up sendgrid account and create api key
 
 [Sendgrid](https://sendgrid.com/)
